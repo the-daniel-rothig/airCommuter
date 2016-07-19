@@ -1,0 +1,19 @@
+{
+  "title": "airCommuter",
+  "name": "aircommuter",
+  "version": "1.0.0",
+  "description": "Adds commuting time information to AirBnB search results",
+  "main": "index.js",
+  "author": "Daniel Rothig",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ],
+  "dependencies": {
+	"jquery": "3.1.0"
+  }
+}

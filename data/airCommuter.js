@@ -97,7 +97,7 @@
 		nextMonday.setDate(nextMonday.getDate() + 7 - weekDay);
 		nextMonday.setHours(10,0);
 		
-		var newSpan = $("<span class='aircommuter'> · </span>")
+		var newSpan = $("<span class='aircommuter'> \u00B7 </span>")
 			.prependTo($(selector))
 			.attr("title", journey.summary || "Click for travel time");
 		$("<a>" + (journey.duration || "?") + " mins</a>")

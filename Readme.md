@@ -9,4 +9,4 @@ Usage
 -----
 
   1. When searching properties on AirBnB, make sure to specify the exact address
-  2. Once the search result screen has loaded, launch the script. You can do this by opening your browser's developer tools panel (F12) and pasting the contents of airCommuter.js in the console, or create a greasemonkey script.
+  2. Commuting times will be shown as red links next to the review data in AirBnB's search result grid
